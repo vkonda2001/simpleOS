@@ -1,7 +1,8 @@
 simpleOS
 ==============================
 
-Features: 
+Features
+-----
 - Memory paging
 - i8259 PIC interrupt handling
 - Exception handling
